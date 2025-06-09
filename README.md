@@ -19,6 +19,8 @@ Este repositório contém a resolução de atividades propostas para a disciplin
 
 ---
 
+## 📝 Organização do Repositório
+
 ├── README.md
 ├── lista1/
 │   ├── calculadora.cpp
@@ -52,4 +54,6 @@ Este repositório contém a resolução de atividades propostas para a disciplin
 
 ---
 
-📎 Feito com 💻 e 🧠, por Kaique.
+## 📎 Desenvolvimento
+
+Feito com 💻 e 🧠, por Kaique.
