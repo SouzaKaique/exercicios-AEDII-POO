@@ -21,6 +21,7 @@ Este repositório contém a resolução de atividades propostas para a disciplin
 
 ## 📝 Organização do Repositório
 
+```
 ├── README.md
 ├── lista1/
 │   ├── calculadora.cpp
@@ -44,6 +45,7 @@ Este repositório contém a resolução de atividades propostas para a disciplin
 │   ├── consumo.cpp
 │   ├── medidas.cpp
 │   └── duracao.cpp
+```
 
 ---
 
