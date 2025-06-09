@@ -1,4 +1,4 @@
-# 📘 Lista de Exercícios de POO em C++
+# 📘 Lista de Exercícios (POO) em C++
 
 Este repositório contém a resolução de atividades propostas para a disciplina de Linguagem de Programação, utilizando a linguagem C++ e o paradigma de Programação Orientada a Objetos (POO).
 
